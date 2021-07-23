@@ -5,6 +5,7 @@
 # Содержание
 
 - [Консультации](doc/meetups/README.md)
+- [Задания](doc/tasks/README.md)
 
 
 # ‼️ Цель:
